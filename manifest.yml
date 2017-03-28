@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: mynode-app-test-28
+  host: mynode-app-test-28
+  disk_quota: 1024M
